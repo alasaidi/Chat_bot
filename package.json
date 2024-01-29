@@ -1,0 +1,15 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ls-lint/ls-lint": "^2.2.2",
+    "format": "^0.2.2"
+  }
+}
